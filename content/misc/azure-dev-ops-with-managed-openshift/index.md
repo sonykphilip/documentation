@@ -22,7 +22,7 @@ In this document, I will show you how to connect your Managed OpenShift Cluster 
 
 * A Public Cloud subscription (Azure Subscription)
 * Azure Dev Ops instance
-* An OpenShift Cluster *(to create an Azure Red Hat OpenShift (ROSA) cluster, click [here](/experts/quickstart-rosa.html))*
+* An OpenShift Cluster *(Satisfy the [prerequisites](/experts/aro/prereq-list/) and create an Azure Red Hat OpenShift (ARO) cluster according to the instructions  [here](/experts/aro/private-cluster/))*
 
 ## Clone example application and configuration files
 ```bash
